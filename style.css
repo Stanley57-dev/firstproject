@@ -1,15 +1,17 @@
 body{
   font-family: 'Segoe UI', sans-serif;
   background-color: #eff3f7;
-  text-align: cnter;
+  display:flex;
+  align-items:center;
+  text-align: center;
 
 }
 
   
     *{
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+       box-sizing: border-box;
         }
   
   
