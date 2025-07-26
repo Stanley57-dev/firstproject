@@ -12,8 +12,6 @@ body{
   
 
 header{
-  display:flex;
-  flex:1fr;
   background-color: rgba(200, 245, 233, 0.959);
    margin: 0;
   padding: 0;
@@ -22,8 +20,6 @@ header{
   background-color:  rgba(200, 245, 233, 0.959);
   margin: 0;
   padding: 0;
-    display:flex;
-  flex:1fr;
 }
 
 
@@ -42,8 +38,7 @@ h1{
 @media screen and (max-width: 768px){
 .fl{ font-size:16px;
     padding:0;}
-  .work {
-    width: 100%;
+  .top{  width: 100%;
     padding: 1rem 0;
     text-align: center;
   }
@@ -284,8 +279,6 @@ justify-content: space-around;
 footer{
   margin-top: 14px;
   background-color: #309d7f;
-   display:flex;
-  flex:1fr;
   
 }
  .text6{
