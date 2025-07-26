@@ -118,13 +118,18 @@ width: 200px;
  .hit2{
   width: 300px;
   border-radius: 900px;
-  margin-left: 200px;
+   display: flex;
+ justify-content: center;
+  align-items: center;
+
   
  }
   .lapimage{
   width: 300px;
   border-radius: 900px;
-  margin-left: 200px;
+  display: flex;
+ justify-content: center;
+  align-items: center;
   
  }
 h2{
