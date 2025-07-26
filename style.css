@@ -12,14 +12,18 @@ body{
   
 
 header{
-
+  display:flex;
+  flex:1fr;
   background-color: rgba(200, 245, 233, 0.959);
-  
+   margin: 0;
+  padding: 0;
 }
 .top{
   background-color:  rgba(200, 245, 233, 0.959);
   margin: 0;
   padding: 0;
+    display:flex;
+  flex:1fr;
 }
 
 
@@ -280,13 +284,14 @@ justify-content: space-around;
 footer{
   margin-top: 14px;
   background-color: #309d7f;
+   display:flex;
+  flex:1fr;
   
 }
  .text6{
  font-family: arial;
  font-size: large;
   color: azure;
-  text-decoration: underline;
   text-align: center;
 
  }
